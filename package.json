@@ -1,0 +1,25 @@
+{
+  "name": "allex_geocodingmethoddescriptorslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with methoddescriptors for Services that want to expose geocoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/geocodingmethoddescriptors.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "geocoding",
+    "methoddescriptors",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/geocodingmethoddescriptors/issues"
+  },
+  "homepage": "https://github.com/allex-libs/geocodingmethoddescriptors#readme"
+}
